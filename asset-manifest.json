@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/soft-ui-music-player/static/css/main.cfef40ea.chunk.css",
+    "main.js": "/soft-ui-music-player/static/js/main.5d3d249d.chunk.js",
+    "main.js.map": "/soft-ui-music-player/static/js/main.5d3d249d.chunk.js.map",
+    "runtime-main.js": "/soft-ui-music-player/static/js/runtime-main.ac4bf20a.js",
+    "runtime-main.js.map": "/soft-ui-music-player/static/js/runtime-main.ac4bf20a.js.map",
+    "static/js/2.4e854605.chunk.js": "/soft-ui-music-player/static/js/2.4e854605.chunk.js",
+    "static/js/2.4e854605.chunk.js.map": "/soft-ui-music-player/static/js/2.4e854605.chunk.js.map",
+    "index.html": "/soft-ui-music-player/index.html",
+    "precache-manifest.97896f57d4aa86d88a7b3004f83597d6.js": "/soft-ui-music-player/precache-manifest.97896f57d4aa86d88a7b3004f83597d6.js",
+    "service-worker.js": "/soft-ui-music-player/service-worker.js",
+    "static/css/main.cfef40ea.chunk.css.map": "/soft-ui-music-player/static/css/main.cfef40ea.chunk.css.map",
+    "static/js/2.4e854605.chunk.js.LICENSE.txt": "/soft-ui-music-player/static/js/2.4e854605.chunk.js.LICENSE.txt",
+    "static/media/cover.jpg": "/soft-ui-music-player/static/media/cover.e47db563.jpg",
+    "static/media/iphone_11.png": "/soft-ui-music-player/static/media/iphone_11.dcd8cc2c.png",
+    "static/media/song.mp3": "/soft-ui-music-player/static/media/song.ab3d0ed6.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac4bf20a.js",
+    "static/js/2.4e854605.chunk.js",
+    "static/css/main.cfef40ea.chunk.css",
+    "static/js/main.5d3d249d.chunk.js"
+  ]
+}
